@@ -28,7 +28,7 @@
                     "name": "Move",
                     "type": "Value",
                     "id": "c597077f-88aa-472c-b42f-e5117d200c58",
-                    "expectedControlType": "",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
