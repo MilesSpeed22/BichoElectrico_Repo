@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float jumpForce;
     [SerializeField] bool isGrounded;
     [SerializeField] Transform groundCheck;
-    [SerializeField] Transform groundCheckRadius;
+    [SerializeField] float groundCheckRadius;
     [SerializeField] LayerMask groundLayer;
 
     Rigidbody2D PlayerRb;
