@@ -44,7 +44,8 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        AnimationManagement();
+        
+        //AnimationManagement();
         
         if (moveInput.x > 0 && !isFacingRight) Flip();
         if (moveInput.x < 0 && isFacingRight) Flip();
@@ -107,7 +108,7 @@ public class PlayerController : MonoBehaviour
         if (context.performed && canShoot) Shoot();
     }
 
-    public void AnimationManagement() 
+    void AnimationManagement() 
     {
         anim.SetBool("Jump", !isGrounded);
         if (moveInput.x != 0f) anim.SetBool("Walk", true);
