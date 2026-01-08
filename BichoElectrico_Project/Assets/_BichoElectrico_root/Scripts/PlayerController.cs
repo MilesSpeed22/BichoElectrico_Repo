@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D PlayerRb;
     PlayerInput input;
     Vector2 moveInput;
+    Animator anim;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -43,7 +44,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        AnimationManagement();
         
         if (moveInput.x > 0 && !isFacingRight) Flip();
         if (moveInput.x < 0 && isFacingRight) Flip();
@@ -104,6 +105,13 @@ public class PlayerController : MonoBehaviour
     public void onShoot(InputAction.CallbackContext context)
     {
         if (context.performed && canShoot) Shoot();
+    }
+
+    public void AnimationManagement() 
+    {
+        anim.SetBool("Jump", !isGrounded);
+        if (moveInput.x != 0f) anim.SetBool("Walk", true);
+        else anim.SetBool("Walk", false);
     }
 
     #endregion
