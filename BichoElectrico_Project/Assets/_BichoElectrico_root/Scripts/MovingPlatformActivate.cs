@@ -8,7 +8,7 @@ public class MovingPlatformActivate2D : MonoBehaviour
     [SerializeField] float waitSecs;
     [SerializeField] Transform[] points; //Array de puntos para perseguir por la plataforma, minimo 2
     [SerializeField] int startingPoint; //Define la posicion inicial de la plataforma
-    public bool platformAct;
+    public bool platformAct = false;
 
     int i; //Indice numerico = numero de punto a perseguir (punto actual +1, al llegar a final se resetea y va hacia el 0)
     // Start is called once before the first execution of Update after the MonoBehaviour is created
