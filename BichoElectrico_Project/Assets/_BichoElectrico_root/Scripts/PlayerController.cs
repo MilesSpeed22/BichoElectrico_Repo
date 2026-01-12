@@ -20,6 +20,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField] Transform shootPoint;
     [SerializeField] float shootCooldown = 1f;
     bool canShoot;
+
+    [Header("Events")]
+    public float airForce = 10f;
     
     Rigidbody2D PlayerRb;
     PlayerInput input;
@@ -54,6 +57,7 @@ public class PlayerController : MonoBehaviour
     public void FixedUpdate()
     {
         Movement();
+        
     }
 
     void Movement()
@@ -87,6 +91,11 @@ public class PlayerController : MonoBehaviour
         currentScale.x *= -1;
         transform.localScale = currentScale;
         isFacingRight = !isFacingRight;
+    }
+
+    public void ApplyAirForce()
+    {
+        PlayerRb.AddForce(Vector3.up * airForce, ForceMode2D.Force);
     }
 
 
