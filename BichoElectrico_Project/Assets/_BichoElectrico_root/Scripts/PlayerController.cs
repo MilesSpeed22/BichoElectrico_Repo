@@ -49,7 +49,7 @@ public class PlayerController : MonoBehaviour
     {
         
         //AnimationManagement();
-        
+
         if (moveInput.x > 0 && !isFacingRight) Flip();
         if (moveInput.x < 0 && isFacingRight) Flip();
     }
@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
     public void FixedUpdate()
     {
         Movement();
-        
+        ApplyAirForce();
     }
 
     void Movement()

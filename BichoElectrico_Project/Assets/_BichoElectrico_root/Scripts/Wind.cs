@@ -2,26 +2,19 @@ using UnityEngine;
 
 public class Wind : MonoBehaviour
 {
-    [SerializeField] float force;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+    [SerializeField] float windForce = 10f;
+    
     private void OnTriggerStay2D(Collider2D collision)
     {
         PlayerController controller = GetComponent<PlayerController>();
 
-        if (controller != null )
+        if (collision.CompareTag("Player"))
         {
-            controller.ApplyAirForce();
+            PlayerController player = collision.GetComponent<PlayerController>();
+            if (player != null)
+            {
+                player.ApplyAirForce();
+            }
         }
     }
 }
