@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
     public void FixedUpdate()
     {
         Movement();
-        ApplyAirForce();
+        //ApplyAirForce();
     }
 
     void Movement()
