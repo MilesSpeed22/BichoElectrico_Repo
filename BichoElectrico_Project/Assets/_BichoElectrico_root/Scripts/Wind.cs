@@ -10,10 +10,10 @@ public class Wind : MonoBehaviour
 
         if (collision.CompareTag("Player"))
         {
-            PlayerController player = collision.GetComponent<PlayerController>();
-            if (player != null)
+            Rigidbody2D rb = collision.GetComponent<Rigidbody2D>();
+            if (rb != null)
             {
-                player.ApplyAirForce();
+                rb.AddForce(Vector2.up * windForce * Time.deltaTime, ForceMode2D.Force);
             }
         }
     }

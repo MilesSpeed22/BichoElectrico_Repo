@@ -20,14 +20,12 @@ public class PlayerController : MonoBehaviour
     [SerializeField] Transform shootPoint;
     [SerializeField] float shootCooldown = 1f;
     bool canShoot;
-
-    [Header("Events")]
-    public float airForce = 10f;
     
     Rigidbody2D PlayerRb;
     PlayerInput input;
     Vector2 moveInput;
     Animator anim;
+    [SerializeField] Transform respawnPoint;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -57,7 +55,6 @@ public class PlayerController : MonoBehaviour
     public void FixedUpdate()
     {
         Movement();
-        //ApplyAirForce();
     }
 
     void Movement()
@@ -93,11 +90,20 @@ public class PlayerController : MonoBehaviour
         isFacingRight = !isFacingRight;
     }
 
-    public void ApplyAirForce()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        PlayerRb.AddForce(Vector3.up * airForce, ForceMode2D.Force);
+        if (collision.collider.CompareTag("Obstacle"))
+        {
+            Respawn();
+        }
     }
 
+    void Respawn()
+    {
+        PlayerRb.linearVelocity = Vector3.zero;
+        PlayerRb.angularVelocity = 0f;
+        transform.position = respawnPoint.position;
+    }
 
 
     #region Inputs
