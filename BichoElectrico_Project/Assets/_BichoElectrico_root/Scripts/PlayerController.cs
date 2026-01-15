@@ -40,14 +40,14 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         isFacingRight = true;
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
-        //AnimationManagement();
-
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        AnimationManagement();
         if (moveInput.x > 0 && !isFacingRight) Flip();
         if (moveInput.x < 0 && isFacingRight) Flip();
     }
@@ -126,8 +126,8 @@ public class PlayerController : MonoBehaviour
     void AnimationManagement() 
     {
         anim.SetBool("Jump", !isGrounded);
-        if (moveInput.x != 0f) anim.SetBool("Walk", true);
-        else anim.SetBool("Walk", false);
+        if (moveInput.x != 0f) anim.SetBool("Run", true);
+        else anim.SetBool("Run", false);
     }
 
     #endregion
