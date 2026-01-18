@@ -8,6 +8,7 @@ public class Core : MonoBehaviour
     public int health = 5;
     public GameObject sceneBefore;
     public GameObject sceneAfter;
+    public Explosion explosion;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -36,8 +37,12 @@ public class Core : MonoBehaviour
 
         void sceneChange()
         {
+            explosion.ExplosionEffect();
+
             sceneBefore.SetActive(false);
             sceneAfter.SetActive(true);
+
+
         }
     }
 }
