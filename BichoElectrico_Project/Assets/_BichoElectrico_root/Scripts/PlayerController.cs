@@ -2,6 +2,7 @@ using Unity.VisualScripting;
 using UnityEditor.Tilemaps;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -94,7 +95,7 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.collider.CompareTag("Obstacle"))
         {
-            Respawn();
+            SceneManager.LoadScene(0);
         }
     }
 
