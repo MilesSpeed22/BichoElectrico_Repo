@@ -27,6 +27,7 @@ public class PlayerController : MonoBehaviour
     Vector2 moveInput;
     Animator anim;
     bool sneaky;
+    public Transform respawnPoint;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
