@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: d4a1af7f39e01724faeec48c9a97a7f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1140548062792506642
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_0
+  - first:
+      213: -3398990861376972604
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_1
+  - first:
+      213: 6254345181428497093
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_2
+  - first:
+      213: -2641099652319232062
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_3
+  - first:
+      213: -7302624762552117588
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_4
+  - first:
+      213: -1997967489281574301
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_5
+  - first:
+      213: 5155326253484187230
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_6
+  - first:
+      213: 1543973056819186331
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_7
+  - first:
+      213: -8584612703710204422
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_8
+  - first:
+      213: 4551070758092894660
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_9
+  - first:
+      213: -5282090807743752841
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_10
+  - first:
+      213: 8333494008682050719
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_11
+  - first:
+      213: 2430431486455338312
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_12
+  - first:
+      213: 1392811387135829193
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_13
+  - first:
+      213: -4266238672584914150
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_14
+  - first:
+      213: -8822394107439603746
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_15
+  - first:
+      213: 9006316828706710669
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_16
+  - first:
+      213: 5048237726043575703
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_17
+  - first:
+      213: -5400363599551979503
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_18
+  - first:
+      213: 9171795008761143243
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_19
+  - first:
+      213: 4020735991123454832
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_20
+  - first:
+      213: 1709399964869667466
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_21
+  - first:
+      213: 7380404539024217813
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_22
+  - first:
+      213: 3051407909699184386
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_23
+  - first:
+      213: -208446444813938008
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_24
+  - first:
+      213: -6017162079362809715
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_25
+  - first:
+      213: -8331677220484985402
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_26
+  - first:
+      213: 847593592667914730
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_27
+  - first:
+      213: 4901223430297873311
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_28
+  - first:
+      213: -1274493682549947898
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_29
+  - first:
+      213: 3470676748888124115
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_30
+  - first:
+      213: -3290652836277501636
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_31
+  - first:
+      213: -2119428087905106623
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_32
+  - first:
+      213: 933861236048802808
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_33
+  - first:
+      213: 5119942897031172464
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_34
+  - first:
+      213: 2258669636693886188
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_35
+  - first:
+      213: -1540514628819357588
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_36
+  - first:
+      213: 6611391869637655245
+    second: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+      Power Switch_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+        Power Switch_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 182
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd1049b6a04df00800000000000000
+      internalID: 1140548062792506642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+        Power Switch_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 182
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c893d8f1db54d0d0800000000000000
+      internalID: -3398990861376972604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+        Power Switch_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 142
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cab8b93ec5ebc650800000000000000
+      internalID: 6254345181428497093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+        Power Switch_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3323ca8ddb5fc00800000000000000
+      internalID: 933861236048802808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower -
+        Power Switch_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071d3df20f0bd0740800000000000000
+      internalID: 5119942897031172464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nucleo_Animaciones_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 116
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cc62d5246683e4bb2c05325b1d7e6b
+      internalID: -61145925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nucleo_Animaciones_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 116
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa2a71f4937ea446950b068a0c26770
+      internalID: -332896535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nucleo_Animaciones_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 116
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b994b337ad2bfc344944089f21101ce2
+      internalID: 901210691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nucleo_Animaciones_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 90
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4892f0d84a85463448ade2afa204420b
+      internalID: 20462958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nucleo_Animaciones_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 90
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fab20d41239ac94395513d462d1d4fa
+      internalID: -676011560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nucleo_Animaciones_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 90
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53abee057ddd99e4c8c21348514cdae5
+      internalID: -1647038033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0b5f734e9cae9c44aa90e9f8c4b703ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nucleo_Animaciones_0: -61145925
+      Nucleo_Animaciones_1: -332896535
+      Nucleo_Animaciones_2: 901210691
+      Nucleo_Animaciones_3: 20462958
+      Nucleo_Animaciones_4: -676011560
+      Nucleo_Animaciones_5: -1647038033
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_0: 1140548062792506642
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_1: -3398990861376972604
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_10: -5282090807743752841
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_11: 8333494008682050719
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_12: 2430431486455338312
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_13: 1392811387135829193
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_14: -4266238672584914150
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_15: -8822394107439603746
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_16: 9006316828706710669
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_17: 5048237726043575703
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_18: -5400363599551979503
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_19: 9171795008761143243
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_2: 6254345181428497093
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_20: 4020735991123454832
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_21: 1709399964869667466
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_22: 7380404539024217813
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_23: 3051407909699184386
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_24: -208446444813938008
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_25: -6017162079362809715
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_26: -8331677220484985402
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_27: 847593592667914730
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_28: 4901223430297873311
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_29: -1274493682549947898
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_3: -2641099652319232062
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_30: 3470676748888124115
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_31: -3290652836277501636
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_32: -2119428087905106623
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_33: 933861236048802808
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_34: 5119942897031172464
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_35: 2258669636693886188
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_36: -1540514628819357588
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_37: 6611391869637655245
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_4: -7302624762552117588
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_5: -1997967489281574301
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_6: 5155326253484187230
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_7: 1543973056819186331
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_8: -8584612703710204422
+      PC _ Computer - Another Metroid 2 Remake - Miscellaneous - A4 Tower - Power Switch_9: 4551070758092894660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

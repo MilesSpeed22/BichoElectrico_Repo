@@ -1,9 +1,9 @@
 using UnityEngine;
 
-public class Wind : MonoBehaviour
+public class WindRight : MonoBehaviour
 {
     [SerializeField] float windForce = 10f;
-    
+
     private void OnTriggerStay2D(Collider2D collision)
     {
         PlayerController controller = GetComponent<PlayerController>();
@@ -13,7 +13,7 @@ public class Wind : MonoBehaviour
             Rigidbody2D rb = collision.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
-                rb.AddForce(Vector2.up * windForce * Time.deltaTime, ForceMode2D.Force);
+                rb.AddForce(Vector2.right * windForce * Time.deltaTime, ForceMode2D.Force);
             }
         }
     }

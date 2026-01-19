@@ -1,0 +1,1597 @@
+fileFormatVersion: 2
+guid: 9a0cdb69a75a10c4fa898f9bf3b8d053
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4898676540938195066
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_0
+  - first:
+      213: 4977109305436855317
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_1
+  - first:
+      213: 2367398470041640902
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_2
+  - first:
+      213: -2944335326857800262
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_3
+  - first:
+      213: -2388501089262182750
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_4
+  - first:
+      213: 1850527709127339170
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_5
+  - first:
+      213: -8497249186138199155
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_6
+  - first:
+      213: -7745341330897257317
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_7
+  - first:
+      213: 5101476060686416585
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_8
+  - first:
+      213: 923443897178188397
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_9
+  - first:
+      213: -6673860211930303800
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_10
+  - first:
+      213: 214028864648971260
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_11
+  - first:
+      213: -5406241111582648351
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_12
+  - first:
+      213: 4185787481533672286
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_13
+  - first:
+      213: -4114163946840170355
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_14
+  - first:
+      213: 6515811576900856667
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_15
+  - first:
+      213: -2221780088454086074
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_16
+  - first:
+      213: 2969205180388946139
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_17
+  - first:
+      213: -250725504365838096
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_18
+  - first:
+      213: 2977740789946859420
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_19
+  - first:
+      213: -3914304158803979903
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_20
+  - first:
+      213: -6093265379818278330
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_21
+  - first:
+      213: -5492126433091620412
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_22
+  - first:
+      213: -8203489340586965700
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_23
+  - first:
+      213: -2700891971970336864
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_24
+  - first:
+      213: -1487311041491620887
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_25
+  - first:
+      213: 5461247568130146101
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_26
+  - first:
+      213: -5597618819336443538
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_27
+  - first:
+      213: -5514623788817147324
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_28
+  - first:
+      213: -9157895653634836609
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_29
+  - first:
+      213: -5731186528231875626
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_30
+  - first:
+      213: -5664192151118458839
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_31
+  - first:
+      213: -5463998933707324383
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_32
+  - first:
+      213: 1992150643273469439
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_33
+  - first:
+      213: 470545822196443838
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_34
+  - first:
+      213: 3091609540607666466
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_35
+  - first:
+      213: 7626023963646140157
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_36
+  - first:
+      213: 3328810332433655351
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_37
+  - first:
+      213: 8970754059924412864
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_38
+  - first:
+      213: 5528987861484455839
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_39
+  - first:
+      213: -5266960154928186756
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_40
+  - first:
+      213: -5623225491117564663
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_41
+  - first:
+      213: 7422087914106677680
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_42
+  - first:
+      213: 2928209508080465743
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_43
+  - first:
+      213: -2862698409016716121
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_44
+  - first:
+      213: 534518583966478020
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_45
+  - first:
+      213: 6215901625946801681
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_46
+  - first:
+      213: -8304162357300615097
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_47
+  - first:
+      213: 8725801413284155069
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_48
+  - first:
+      213: 5897611925507398674
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_49
+  - first:
+      213: -1457076256916512727
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+      Conveyor_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fe6dbe3a7640cb0800000000000000
+      internalID: -4898676540938195066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cdade1b8e321540800000000000000
+      internalID: 4977109305436855317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 255
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf92a09d50bad020800000000000000
+      internalID: 2367398470041640902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 240
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5d107be9e9327d0800000000000000
+      internalID: -2944335326857800262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 255
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aed4e40ae65aded0800000000000000
+      internalID: -2388501089262182750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac6d8d95256ea910800000000000000
+      internalID: 1850527709127339170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6144b2e4b31a80800000000000000
+      internalID: -8497249186138199155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 224
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cb7bb9815038490800000000000000
+      internalID: -7745341330897257317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca7f5bc2751cc640800000000000000
+      internalID: 5101476060686416585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aee45f45bb0dc00800000000000000
+      internalID: 923443897178188397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 208
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2f7433f7fa163a0800000000000000
+      internalID: -6673860211930303800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305115e1268f200800000000000000
+      internalID: 214028864648971260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7d00e3a5c29f4b0800000000000000
+      internalID: -5406241111582648351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 192
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b67168987e61a30800000000000000
+      internalID: 4185787481533672286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d806fd820bd87e6c0800000000000000
+      internalID: -4114163946840170355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bad806b10dc6a50800000000000000
+      internalID: 6515811576900856667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 176
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64288a2f7c6aa21e0800000000000000
+      internalID: -2221780088454086074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0355a416cb43920800000000000000
+      internalID: 2969205180388946139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0c4207b7e358cf0800000000000000
+      internalID: -250725504365838096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 160
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f39f1c87f035920800000000000000
+      internalID: 2977740789946859420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18197af3b199da9c0800000000000000
+      internalID: -3914304158803979903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642feb9ab6f507ba0800000000000000
+      internalID: -6093265379818278330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c17a0e8b1c08c3b0800000000000000
+      internalID: -5492126433091620412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c354c9f98e9572e80800000000000000
+      internalID: -8203489340586965700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f00abf01848ad0800000000000000
+      internalID: -2700891971970336864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 128
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2065ec720c5be0800000000000000
+      internalID: -1487311041491620887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ffcd07abf3acb40800000000000000
+      internalID: 5461247568130146101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69e86d57534152b0800000000000000
+      internalID: -5597618819336443538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a92adb1ee1873b0800000000000000
+      internalID: -5514623788817147324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7770037c6e98e080800000000000000
+      internalID: -9157895653634836609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db1c3bb73cb670b0800000000000000
+      internalID: -5731186528231875626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920570daf3fb461b0800000000000000
+      internalID: -5664192151118458839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12403475be9fb24b0800000000000000
+      internalID: -5463998933707324383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd8167847a85ab10800000000000000
+      internalID: 1992150643273469439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 80
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba2096aee6b78600800000000000000
+      internalID: 470545822196443838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229e0244f7a97ea20800000000000000
+      internalID: 3091609540607666466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe9eb9f36415d960800000000000000
+      internalID: 7626023963646140157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 64
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736ab5d4c5f423e20800000000000000
+      internalID: 3328810332433655351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c91035d9458e7c70800000000000000
+      internalID: 8970754059924412864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f974a3b8a29eabc40800000000000000
+      internalID: 5528987861484455839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 48
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a7e5705aff7e6b0800000000000000
+      internalID: -5266960154928186756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d140e753a46f1b0800000000000000
+      internalID: -5623225491117564663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b96c0c42ad800760800000000000000
+      internalID: 7422087914106677680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47be05880713a820800000000000000
+      internalID: 2928209508080465743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a49b77d6f6a548d0800000000000000
+      internalID: -2862698409016716121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceaa23f1ddfa6700800000000000000
+      internalID: 534518583966478020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 16
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11605557891534650800000000000000
+      internalID: 6215901625946801681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7482de75550b1cc80800000000000000
+      internalID: -8304162357300615097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe47637726481970800000000000000
+      internalID: 8725801413284155069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cd9f2acc688d150800000000000000
+      internalID: 5897611925507398674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles -
+        Conveyor_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920e5df3ddc67cbe0800000000000000
+      internalID: -1457076256916512727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_0: -4898676540938195066
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_1: 4977109305436855317
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_10: -6673860211930303800
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_11: 214028864648971260
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_12: -5406241111582648351
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_13: 4185787481533672286
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_14: -4114163946840170355
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_15: 6515811576900856667
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_16: -2221780088454086074
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_17: 2969205180388946139
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_18: -250725504365838096
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_19: 2977740789946859420
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_2: 2367398470041640902
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_20: -3914304158803979903
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_21: -6093265379818278330
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_22: -5492126433091620412
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_23: -8203489340586965700
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_24: -2700891971970336864
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_25: -1487311041491620887
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_26: 5461247568130146101
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_27: -5597618819336443538
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_28: -5514623788817147324
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_29: -9157895653634836609
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_3: -2944335326857800262
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_30: -5731186528231875626
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_31: -5664192151118458839
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_32: -5463998933707324383
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_33: 1992150643273469439
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_34: 470545822196443838
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_35: 3091609540607666466
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_36: 7626023963646140157
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_37: 3328810332433655351
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_38: 8970754059924412864
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_39: 5528987861484455839
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_4: -2388501089262182750
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_40: -5266960154928186756
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_41: -5623225491117564663
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_42: 7422087914106677680
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_43: 2928209508080465743
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_44: -2862698409016716121
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_45: 534518583966478020
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_46: 6215901625946801681
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_47: -8304162357300615097
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_48: 8725801413284155069
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_49: 5897611925507398674
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_5: 1850527709127339170
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_50: -1457076256916512727
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_6: -8497249186138199155
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_7: -7745341330897257317
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_8: 5101476060686416585
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Global Tiles - Conveyor_9: 923443897178188397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

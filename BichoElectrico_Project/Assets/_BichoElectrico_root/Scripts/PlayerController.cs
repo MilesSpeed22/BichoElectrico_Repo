@@ -2,6 +2,7 @@ using Unity.VisualScripting;
 using UnityEditor.Tilemaps;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -20,14 +21,12 @@ public class PlayerController : MonoBehaviour
     [SerializeField] Transform shootPoint;
     [SerializeField] float shootCooldown = 1f;
     bool canShoot;
-
-    [Header("Events")]
-    public float airForce = 10f;
     
     Rigidbody2D PlayerRb;
     PlayerInput input;
     Vector2 moveInput;
     Animator anim;
+    [SerializeField] Transform respawnPoint;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -42,14 +41,14 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         isFacingRight = true;
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
-        //AnimationManagement();
-
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        AnimationManagement();
         if (moveInput.x > 0 && !isFacingRight) Flip();
         if (moveInput.x < 0 && isFacingRight) Flip();
     }
@@ -57,7 +56,6 @@ public class PlayerController : MonoBehaviour
     public void FixedUpdate()
     {
         Movement();
-        ApplyAirForce();
     }
 
     void Movement()
@@ -93,11 +91,20 @@ public class PlayerController : MonoBehaviour
         isFacingRight = !isFacingRight;
     }
 
-    public void ApplyAirForce()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        PlayerRb.AddForce(Vector3.up * airForce, ForceMode2D.Force);
+        if (collision.collider.CompareTag("Obstacle"))
+        {
+            SceneManager.LoadScene(0);
+        }
     }
 
+    void Respawn()
+    {
+        PlayerRb.linearVelocity = Vector3.zero;
+        PlayerRb.angularVelocity = 0f;
+        transform.position = respawnPoint.position;
+    }
 
 
     #region Inputs
@@ -120,8 +127,8 @@ public class PlayerController : MonoBehaviour
     void AnimationManagement() 
     {
         anim.SetBool("Jump", !isGrounded);
-        if (moveInput.x != 0f) anim.SetBool("Walk", true);
-        else anim.SetBool("Walk", false);
+        if (moveInput.x != 0f) anim.SetBool("Run", true);
+        else anim.SetBool("Run", false);
     }
 
     #endregion
