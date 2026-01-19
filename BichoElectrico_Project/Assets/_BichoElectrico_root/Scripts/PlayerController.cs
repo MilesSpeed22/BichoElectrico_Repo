@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
     PlayerInput input;
     Vector2 moveInput;
     Animator anim;
-    [SerializeField] Transform respawnPoint;
+    bool sneaky;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -36,6 +36,7 @@ public class PlayerController : MonoBehaviour
         input = GetComponent<PlayerInput>();
         isGrounded = true;
         canShoot = true;
+        sneaky = true;
     }
 
     void Start()
@@ -48,7 +49,9 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+
         AnimationManagement();
+
         if (moveInput.x > 0 && !isFacingRight) Flip();
         if (moveInput.x < 0 && isFacingRight) Flip();
     }
@@ -127,8 +130,8 @@ public class PlayerController : MonoBehaviour
     void AnimationManagement() 
     {
         anim.SetBool("Jump", !isGrounded);
-        if (moveInput.x != 0f) anim.SetBool("Run", true);
-        else anim.SetBool("Run", false);
+        if (moveInput.x != 0) anim.SetBool("Walk", true);
+        else anim.SetBool("Walk", false);
     }
 
     #endregion
