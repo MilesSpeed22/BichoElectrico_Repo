@@ -2,6 +2,7 @@ using Unity.VisualScripting;
 using UnityEditor.Tilemaps;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -41,6 +42,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         isFacingRight = true;
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -92,6 +94,20 @@ public class PlayerController : MonoBehaviour
         isFacingRight = !isFacingRight;
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("Obstacle"))
+        {
+            SceneManager.LoadScene(0);
+        }
+    }
+
+    void Respawn()
+    {
+        PlayerRb.linearVelocity = Vector3.zero;
+        PlayerRb.angularVelocity = 0f;
+        transform.position = respawnPoint.position;
+    }
 
 
     #region Inputs
@@ -111,7 +127,7 @@ public class PlayerController : MonoBehaviour
         if (context.performed && canShoot) Shoot();
     }
 
-    public void AnimationManagement() 
+    void AnimationManagement() 
     {
         anim.SetBool("Jump", !isGrounded);
         if (moveInput.x != 0) anim.SetBool("Walk", true);
