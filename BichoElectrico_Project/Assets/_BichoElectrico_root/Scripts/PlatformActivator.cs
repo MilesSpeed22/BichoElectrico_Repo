@@ -27,7 +27,7 @@ public class PlatformActivator : MonoBehaviour
             activated = true;
             gameObject.SetActive(false);
 
-            Debug.Log("Palanca activada");
+         
         }
     }
 }
