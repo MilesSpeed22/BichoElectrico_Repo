@@ -20,7 +20,7 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == null || collision.gameObject.tag != "CamConfiner")
+        if (collision.gameObject.tag == null || collision.gameObject.tag != "CamConfiner" && collision.gameObject.tag != "Player")
         {
             gameObject.SetActive(false);
         }
