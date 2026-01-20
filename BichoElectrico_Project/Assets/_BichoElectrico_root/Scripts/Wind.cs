@@ -3,7 +3,7 @@ using UnityEngine;
 public class Wind : MonoBehaviour
 {
     [SerializeField] float windForce = 10f;
-    public bool isActive;
+    public bool isActive = false;
     
     private void OnTriggerStay2D(Collider2D collision)
     {
