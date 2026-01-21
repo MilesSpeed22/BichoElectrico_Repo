@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
     PlayerInput input;
     Vector2 moveInput;
     Animator anim;
-    bool sneaky;
+    public bool sneaky;
     public Transform respawnPoint;
 
 
@@ -37,7 +37,7 @@ public class PlayerController : MonoBehaviour
         input = GetComponent<PlayerInput>();
         isGrounded = true;
         canShoot = true;
-        sneaky = true;
+        sneaky = false;
     }
 
     void Start()
