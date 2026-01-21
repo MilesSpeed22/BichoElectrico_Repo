@@ -14,19 +14,24 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float groundCheckRadius;
     [SerializeField] LayerMask groundLayer;
     [SerializeField] bool isFacingRight;
+    [SerializeField] int pushforce;
 
 
-    [Header("Shooting Config")]
+   [Header("Shooting Config")]
     [SerializeField] GameObject bullet;
     [SerializeField] Transform shootPoint;
     [SerializeField] float shootCooldown = 1f;
     bool canShoot;
     
+
+
     Rigidbody2D PlayerRb;
     PlayerInput input;
     Vector2 moveInput;
     Animator anim;
+    public bool dmgr;
     public bool sneaky;
+    public int Batery;
     public Transform respawnPoint;
 
 
@@ -38,6 +43,30 @@ public class PlayerController : MonoBehaviour
         isGrounded = true;
         canShoot = true;
         sneaky = false;
+    }
+
+    public void dmg(Vector2 direction, int dmgc)
+    {
+        if (!dmgr)
+        {
+            dmgr = true;
+            Batery -= dmgc;
+            if (Batery <= 0)
+            {
+                Respawn();
+            }
+            else
+            {
+                Vector2 push = new Vector2(transform.position.x - direction.x, 1).normalized;
+                PlayerRb.AddForce(push * pushforce, ForceMode2D.Impulse);
+            }
+        }
+    }
+
+    private void fdmgr()
+    {
+        dmgr = false;
+        PlayerRb.linearVelocity = Vector2.zero;
     }
 
     void Start()
@@ -64,7 +93,10 @@ public class PlayerController : MonoBehaviour
 
     void Movement()
     {
-        PlayerRb.linearVelocity = new Vector2(moveInput.x * speed, PlayerRb.linearVelocity.y);
+        if (!dmgr)
+        {
+            PlayerRb.linearVelocity = new Vector2(moveInput.x * speed, PlayerRb.linearVelocity.y);
+        }
     }
 
     void Jump()
@@ -120,7 +152,7 @@ public class PlayerController : MonoBehaviour
 
     public void onJump(InputAction.CallbackContext context)
     {
-        if (context.performed && isGrounded) Jump();
+        if (context.performed && isGrounded && !dmgr) Jump();
     }
 
     public void onShoot(InputAction.CallbackContext context)
@@ -133,6 +165,7 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("Jump", !isGrounded);
         if (moveInput.x != 0) anim.SetBool("Walk", true);
         else anim.SetBool("Walk", false);
+        //anim.SetBool("AM_dmgr", dmgr);
     }
 
     #endregion

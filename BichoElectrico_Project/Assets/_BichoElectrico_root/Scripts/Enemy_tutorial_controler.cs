@@ -32,4 +32,11 @@ public class Enemy_tutorial_controler : MonoBehaviour
 
         rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Vector2 directiondmg = new Vector2(transform.position.x, 0);
+
+        collision.gameObject.GetComponent<PlayerController>().dmg(directiondmg, 1);
+    }
 }
