@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 137cc2578c169e34d89bdad12efda780
+guid: 4e38146309f93324397a0e379f4cbd48
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8701536793483841217
-    second: 1_4_0
+      213: 4760262881229256669
+    second: PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_0
+  - first:
+      213: -1991310464532506099
+    second: PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_1
+  - first:
+      213: -8406820968631640494
+    second: PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_2
+  - first:
+      213: -1846291887985625460
+    second: PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -152,13 +161,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1_4_0
+      name: PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 36
-        width: 50
-        height: 25
+        x: 0
+        y: 0
+        width: 16
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +176,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ce88976c9112c870800000000000000
-      internalID: 8701536793483841217
+      spriteID: dd7b5299ed9df0240800000000000000
+      internalID: 4760262881229256669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a9504dea17d54e0800000000000000
+      internalID: -1991310464532506099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ed76aced8f45b80800000000000000
+      internalID: -8406820968631640494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c867ee85f47a066e0800000000000000
+      internalID: -1846291887985625460
       vertices: []
       indices: 
       edges: []
@@ -187,7 +262,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      1_4_0: 8701536793483841217
+      PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_0: 4760262881229256669
+      PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_1: -1991310464532506099
+      PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_2: -8406820968631640494
+      PlayStation - Blitter Boy (Net Yaroze) - Objects - Button_3: -1846291887985625460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
