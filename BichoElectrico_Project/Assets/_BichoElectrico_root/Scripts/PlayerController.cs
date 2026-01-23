@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
    [Header("Shooting Config")]
     [SerializeField] GameObject bullet;
     [SerializeField] Transform shootPoint;
-    [SerializeField] float shootCooldown = 1f;
+    [SerializeField] float shootCooldown = 5f;
     bool canShoot;
     
 
@@ -157,6 +157,7 @@ public class PlayerController : MonoBehaviour
     public void onShoot(InputAction.CallbackContext context)
     {
         if (context.performed && canShoot) anim.SetBool("Shoot", true);
+        Shoot();
     }
 
     void AnimationManagement() 
