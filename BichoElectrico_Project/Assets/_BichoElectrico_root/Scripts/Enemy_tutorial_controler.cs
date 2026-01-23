@@ -5,6 +5,7 @@ public class Enemy_tutorial_controler : MonoBehaviour
     public Transform player;
     [SerializeField] float detectRadious;
     [SerializeField] float speed;
+    [SerializeField] float enemyHealth = 1f;
 
     public PlayerController playerr;
     private Rigidbody2D rb;
@@ -30,6 +31,8 @@ public class Enemy_tutorial_controler : MonoBehaviour
             movement = Vector2.zero;
         }
 
+        EnemyHealth();
+
         rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
     }
 
@@ -38,5 +41,21 @@ public class Enemy_tutorial_controler : MonoBehaviour
         Vector2 directiondmg = new Vector2(transform.position.x, 0);
 
         collision.gameObject.GetComponent<PlayerController>().dmg(directiondmg, 1);
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Bullet"))
+        {
+            enemyHealth = -1;
+        }
+    }
+
+    void EnemyHealth()
+    {
+        if (enemyHealth <= 0)
+        {
+            gameObject.SetActive(false);
+        }
     }
 }
