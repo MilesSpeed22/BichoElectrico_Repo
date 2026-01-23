@@ -165,6 +165,7 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("Jump", !isGrounded);
         if (moveInput.x != 0) anim.SetBool("Walk", true);
         else anim.SetBool("Walk", false);
+        
         //anim.SetBool("AM_dmgr", dmgr);
     }
 
