@@ -51,14 +51,11 @@ public class PlayerController : MonoBehaviour
         {
             dmgr = true;
             Batery -= dmgc;
+            Vector2 push = new Vector2(transform.position.x - direction.x, 1).normalized;
+            PlayerRb.AddForce(push * pushforce, ForceMode2D.Impulse);
             if (Batery <= 0)
-            {
-                Respawn();
-            }
-            else
-            {
-                Vector2 push = new Vector2(transform.position.x - direction.x, 1).normalized;
-                PlayerRb.AddForce(push * pushforce, ForceMode2D.Impulse);
+                {
+                anim.SetBool("Death", true);
             }
         }
     }
@@ -114,6 +111,10 @@ public class PlayerController : MonoBehaviour
         Invoke(nameof(ResetShoot), shootCooldown);
     }
 
+    void StopShoot()
+    {
+        anim.SetBool("Shoot", false);
+    }
     void ResetShoot()
     {
         canShoot = true;
@@ -155,7 +156,7 @@ public class PlayerController : MonoBehaviour
 
     public void onShoot(InputAction.CallbackContext context)
     {
-        if (context.performed && canShoot) Shoot();
+        if (context.performed && canShoot) anim.SetBool("Shoot", true);
     }
 
     void AnimationManagement() 
@@ -163,8 +164,7 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("Jump", !isGrounded);
         if (moveInput.x != 0) anim.SetBool("Walk", true);
         else anim.SetBool("Walk", false);
-        
-        //anim.SetBool("AM_dmgr", dmgr);
+        if (dmgr == true) anim.SetBool("Dmg", true);
     }
 
     #endregion

@@ -33,7 +33,7 @@ public class Enemy_tutorial_controler : MonoBehaviour
 
         EnemyHealth();
 
-        rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
+        rb.MovePosition(rb.position + speed * Time.deltaTime * movement);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
