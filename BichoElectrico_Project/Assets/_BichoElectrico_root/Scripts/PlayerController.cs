@@ -131,15 +131,13 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.collider.CompareTag("Obstacle"))
         {
-            SceneManager.LoadScene(0);
+            Respawn();
         }
     }
 
     void Respawn()
     {
-        PlayerRb.linearVelocity = Vector3.zero;
-        PlayerRb.angularVelocity = 0f;
-        transform.position = respawnPoint.position;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
 

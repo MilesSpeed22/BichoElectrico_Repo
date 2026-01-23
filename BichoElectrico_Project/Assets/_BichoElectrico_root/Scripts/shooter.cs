@@ -17,4 +17,19 @@ public class shooter : MonoBehaviour
     {
         Instantiate(bullet, shootPoint.position, Quaternion.identity);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        PlayerController controller = GetComponent<PlayerController>();
+
+        if (collision.CompareTag("Player"))
+        {
+            gameObject.SetActive(false);
+        }
+    }
+
+    private void OnDisable()
+    {
+        CancelInvoke();
+    }
 }
