@@ -104,7 +104,10 @@ public class PlayerController : MonoBehaviour
 
     void Shoot()
     {
+        if (!canShoot) return;
+
         canShoot = false;
+
         GameObject actualBullet = Instantiate(bullet, shootPoint.position, Quaternion.identity);
         Bullet bulletScript = actualBullet.GetComponent<Bullet>();
         bulletScript.isFacingRight = isFacingRight;
