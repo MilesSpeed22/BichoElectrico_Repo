@@ -15,13 +15,15 @@ public class PlayerController : MonoBehaviour
     [SerializeField] LayerMask groundLayer;
     [SerializeField] bool isFacingRight;
     [SerializeField] int pushforce;
+    float maxBatery;
 
 
-   [Header("Shooting Config")]
+    [Header("Shooting Config")]
     [SerializeField] GameObject bullet;
     [SerializeField] Transform shootPoint;
     [SerializeField] float shootCooldown = 5f;
     bool canShoot;
+    
     
 
 
@@ -42,7 +44,7 @@ public class PlayerController : MonoBehaviour
         input = GetComponent<PlayerInput>();
         isGrounded = true;
         canShoot = true;
-        sneaky = false;
+        sneaky = true;
     }
 
     public void dmg(Vector2 direction, int dmgc)
@@ -52,7 +54,7 @@ public class PlayerController : MonoBehaviour
             AudioManager.instance.PlaySFX(1);
             dmgr = true;
             Batery -= dmgc;
-            Vector2 push = new Vector2(transform.position.x - direction.x, 1).normalized;
+            Vector2 push = new Vector2(transform.position.x - direction.x, 1);//.normalized;
             PlayerRb.AddForce(push * pushforce, ForceMode2D.Impulse);
             if (Batery <= 0)
                 {
@@ -72,6 +74,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         isFacingRight = true;
+        maxBatery = Batery;
         anim = GetComponent<Animator>();
     }
 
@@ -79,11 +82,12 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-
+        Sneakynt();
         AnimationManagement();
 
         if (moveInput.x > 0 && !isFacingRight) Flip();
         if (moveInput.x < 0 && isFacingRight) Flip();
+
     }
 
     public void FixedUpdate()
@@ -105,6 +109,15 @@ public class PlayerController : MonoBehaviour
         PlayerRb.AddForce(Vector3.up * jumpForce, ForceMode2D.Impulse);
         
     }
+
+    public void Sneakynt()
+    {
+        if (maxBatery > Batery)
+        {
+            sneaky = false;
+        }
+    }
+
 
     void Shoot()
     {
