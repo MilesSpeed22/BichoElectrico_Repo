@@ -49,12 +49,14 @@ public class PlayerController : MonoBehaviour
     {
         if (!dmgr)
         {
+            AudioManager.instance.PlaySFX(1);
             dmgr = true;
             Batery -= dmgc;
             Vector2 push = new Vector2(transform.position.x - direction.x, 1).normalized;
             PlayerRb.AddForce(push * pushforce, ForceMode2D.Impulse);
             if (Batery <= 0)
                 {
+                AudioManager.instance.PlaySFX(2);
                 anim.SetTrigger("Death");
             }
         }
@@ -110,6 +112,7 @@ public class PlayerController : MonoBehaviour
 
         canShoot = false;
 
+        AudioManager.instance.PlaySFX(3);
         GameObject actualBullet = Instantiate(bullet, shootPoint.position, Quaternion.identity);
         Bullet bulletScript = actualBullet.GetComponent<Bullet>();
         bulletScript.isFacingRight = isFacingRight;
