@@ -99,6 +99,7 @@ public class PlayerController : MonoBehaviour
 
     void Jump()
     {
+        AudioManager.instance.PlaySFX(0);
         PlayerRb.AddForce(Vector3.up * jumpForce, ForceMode2D.Impulse);
         
     }
