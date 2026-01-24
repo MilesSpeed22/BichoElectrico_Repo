@@ -55,15 +55,16 @@ public class PlayerController : MonoBehaviour
             PlayerRb.AddForce(push * pushforce, ForceMode2D.Impulse);
             if (Batery <= 0)
                 {
-                anim.SetBool("Death", true);
+                anim.SetTrigger("Death");
             }
         }
     }
 
-    private void fdmgr()
+    public void fdmgr()
     {
         dmgr = false;
         PlayerRb.linearVelocity = Vector2.zero;
+        anim.SetBool("Dmg", false);
     }
 
     void Start()
@@ -159,8 +160,11 @@ public class PlayerController : MonoBehaviour
 
     public void onShoot(InputAction.CallbackContext context)
     {
-        if (context.performed && canShoot) anim.SetBool("Shoot", true);
-        Shoot();
+        if (context.performed && canShoot)
+        {
+            anim.SetBool("Shoot", true);
+            //Shoot();
+        }
     }
 
     void AnimationManagement() 
@@ -168,7 +172,7 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("Jump", !isGrounded);
         if (moveInput.x != 0) anim.SetBool("Walk", true);
         else anim.SetBool("Walk", false);
-        if (dmgr == true) anim.SetBool("Dmg", true);
+        if (dmgr) anim.SetBool("Dmg", true);
     }
 
     #endregion
