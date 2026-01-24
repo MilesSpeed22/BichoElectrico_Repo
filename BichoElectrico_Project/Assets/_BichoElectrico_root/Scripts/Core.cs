@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class Core : MonoBehaviour
 {
 
-    public int health = 5;
+    public int health = 1;
     public GameObject sceneBefore;
     public GameObject sceneAfter;
     public Explosion explosion;
