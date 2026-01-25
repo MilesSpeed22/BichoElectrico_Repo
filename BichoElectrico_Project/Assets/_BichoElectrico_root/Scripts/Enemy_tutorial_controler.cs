@@ -10,6 +10,9 @@ public class Enemy_tutorial_controler : MonoBehaviour
     [SerializeField] float enemyHealth = 1f;
     [SerializeField] bool isFacingRight;
     [SerializeField] Vector2 initialPosition;
+    [SerializeField] bool pacifist;
+    [SerializeField] bool dA;
+    Animator anim;
 
 
     public PlayerController playerr;
@@ -25,6 +28,8 @@ public class Enemy_tutorial_controler : MonoBehaviour
         initialPosition = rb.position;
 
         lastX = rb.position.x;
+
+        anim = GetComponent<Animator>();
 
     }
 
@@ -56,9 +61,12 @@ public class Enemy_tutorial_controler : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Vector2 directiondmg = new Vector2(transform.position.x, 0);
+        if (pacifist == false)
+        {
+            Vector2 directiondmg = new Vector2(transform.position.x, 0);
 
-        collision.gameObject.GetComponent<PlayerController>().dmg(directiondmg, 1);
+            collision.gameObject.GetComponent<PlayerController>().dmg(directiondmg, 1);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -71,10 +79,18 @@ public class Enemy_tutorial_controler : MonoBehaviour
 
     void EnemyHealth()
     {
-        if (enemyHealth <= 0)
+        if (enemyHealth <= 0 && dA == false)
         {
-            gameObject.SetActive(false);
+            desactivate();
+        } else if (enemyHealth <= 0 && dA == true)
+        {
+            anim.SetTrigger("Death");
         }
+
+    }
+    public void desactivate()
+    {
+        gameObject.SetActive(false);
     }
     void Flip()
     {
