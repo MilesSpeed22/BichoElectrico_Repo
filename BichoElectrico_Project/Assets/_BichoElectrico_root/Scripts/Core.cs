@@ -38,7 +38,7 @@ public class Core : MonoBehaviour
         void sceneChange()
         {
             AudioManager.instance.PlaySFX(5);
-            AudioManager.instance.PlayMusic(2);
+            AudioManager.instance.PlayMusic(3);
             explosion.ExplosionEffect();
 
             sceneBefore.SetActive(false);
